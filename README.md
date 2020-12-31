@@ -5,7 +5,7 @@
 
 - [Tools](#tools)
 - [Templates](#templates)
-- [Websites and Communities] (#websites-and-communities)
+- [Websites and Communities](#websites-and-communities)
 - [Articles](#articles)
 
 ## Templates
