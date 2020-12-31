@@ -9,6 +9,10 @@
 ### Tools
 (coming soon)
 
+### Articles
 
-### Apps
+
+### Integrations
 (coming soon)
+
+### Contribute
