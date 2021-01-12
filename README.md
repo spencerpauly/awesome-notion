@@ -10,6 +10,7 @@
 
 
 ## Tools
+- [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
 - [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk?hl=en) - Chrome extension that lets you bookmark any website into Notion.
 - [Notion Charts](https://www.notion.vip/charts/) - Create embeddable charts optimized for Notion by linking with google sheets documents.
 - [Notion Icons](https://www.notion.vip/icons/) - A list of embeddable custom icons for your Notion pages.
