@@ -16,6 +16,7 @@
 - [Notion Icons](https://www.notion.vip/icons/) - A list of embeddable custom icons for your Notion pages.
 
 ## Websites and Communities
+- [NotionIntegrations](https://notionintegrations.com) - Compilation of community-made Notion Integrations and upcoming integration releases.
 - [r/Notion](https://www.reddit.com/r/Notion/) - Notion subreddit with over 76k notion users. 
 - [Facebook - Notion Made Simple](https://www.facebook.com/groups/notioncommunity/) - Notion facebook group
 - [Discord - Notion Community](https://discord.com/invite/KJJ95qa) - Notion discord group to get help, discuss Notion, and share your creations.
