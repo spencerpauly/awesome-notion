@@ -14,6 +14,7 @@
 - [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk?hl=en) - Chrome extension that lets you bookmark any website into Notion.
 - [Notion Charts](https://www.notion.vip/charts/) - Create embeddable charts optimized for Notion by linking with google sheets documents.
 - [Notion Icons](https://www.notion.vip/icons/) - A list of embeddable custom icons for your Notion pages.
+- [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 
 ## Websites and Communities
 - [NotionIntegrations](https://notionintegrations.com) - Compilation of community-made Notion Integrations and upcoming integration releases.
