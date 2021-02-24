@@ -3,20 +3,11 @@
 
 ## Table of Content
 
-- [APIs](#APIs)
 - [Tools](#tools)
 - [Websites and Communities](#websites-and-communities)
 - [Templates](#templates)
 - [Articles](#articles)
-
-## APIs
-- [Notion API - Private beta](https://www.notion.so/api-beta) - Official Notion API, which is still a private beta version.
-- [notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
-- [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so.
-- [notion-ruby](https://github.com/danmurphy1217/notion-ruby) - Unofficial Notion Client for Ruby.
-- [KNotion API](https://github.com/notionsdk/notion-sdk-kotlin) - Unofficial Notion.so API wrapper, written in Kotlin.
-- [Notion API Worker](https://github.com/splitbee/notion-api-worker) - A serverless wrapper for the private Notion API.
-- [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) - Robust TypeScript client for the unofficial Notion API.
+- [APIs](#APIs)
 
 ## Tools
 - [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
@@ -41,6 +32,16 @@
 
 ## Articles
 - [The NBA in Notion: A Practical Example of Databases](https://www.notion.vip/the-nba-in-notion-a-practical-example-of-databases/) - An article discussing how Notion databases work using an NBA database as an example.
+
+## APIs
+- [The Official Notion API - Private beta](https://www.notion.so/api-beta) - Official Notion API, which is still a private beta version.
+- [notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
+- [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so.
+- [notion-ruby](https://github.com/danmurphy1217/notion-ruby) - Unofficial Notion Client for Ruby.
+- [KNotion API](https://github.com/notionsdk/notion-sdk-kotlin) - Unofficial Notion.so API wrapper, written in Kotlin.
+- [Notion API Worker](https://github.com/splitbee/notion-api-worker) - A serverless wrapper for the private Notion API.
+- [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) - Robust TypeScript client for the unofficial Notion API.
+- [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) - Unofficial Node.js API wrapper for Notion.so. Work in progress.
 
 
 ## Contribute
