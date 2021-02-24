@@ -9,7 +9,7 @@
 - [Articles](#articles)
 - [Renderers](#renderers)
 - [Notion as Blog CMS](#notion-as-blog-cms)
-
+- [APIs](#APIs)
 
 ## Tools
 - [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
@@ -45,6 +45,16 @@
 - [Notablog](https://github.com/dragonman225/notablog) - Generate a minimalistic blog from Notion table.
 - [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - A starter kit using React Notion X to build into SSG with Next.js.
 - [React Notion Blog](https://github.com/splitbee/react-notion-blog) - Notion blog boilerplate using React Notion to build into SSG with Next.js.
+
+## APIs
+- [The Official Notion API - Private beta](https://www.notion.so/api-beta) - Official Notion API, which is still a private beta version.
+- [notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
+- [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so.
+- [notion-ruby](https://github.com/danmurphy1217/notion-ruby) - Unofficial Notion Client for Ruby.
+- [KNotion API](https://github.com/notionsdk/notion-sdk-kotlin) - Unofficial Notion.so API wrapper, written in Kotlin.
+- [Notion API Worker](https://github.com/splitbee/notion-api-worker) - A serverless wrapper for the private Notion API.
+- [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) - Robust TypeScript client for the unofficial Notion API.
+- [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) - Unofficial Node.js API wrapper for Notion.so. Work in progress.
 
 ## Contribute
 
