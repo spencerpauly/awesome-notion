@@ -9,7 +9,9 @@
 - [Articles](#articles)
 - [Renderers](#renderers)
 - [Notion as Blog CMS](#notion-as-blog-cms)
+- [Notion as Website](#notion-as-website)
 - [APIs](#APIs)
+
 
 ## Tools
 - [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
@@ -45,6 +47,9 @@
 - [Notablog](https://github.com/dragonman225/notablog) - Generate a minimalistic blog from Notion table.
 - [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - A starter kit using React Notion X to build into SSG with Next.js.
 - [React Notion Blog](https://github.com/splitbee/react-notion-blog) - Notion blog boilerplate using React Notion to build into SSG with Next.js.
+
+## Notion as Website
+- [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
 
 ## APIs
 - [The Official Notion API - Private beta](https://www.notion.so/api-beta) - Official Notion API, which is still a private beta version.
