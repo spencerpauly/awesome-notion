@@ -51,6 +51,7 @@
 
 ## Notion as Website
 - [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
+- [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
 
 ## APIs
 - [The Official Notion API - Private beta](https://www.notion.so/api-beta) - Official Notion API, which is still a private beta version.
