@@ -49,9 +49,10 @@
 - [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - A starter kit using React Notion X to build into SSG with Next.js.
 - [React Notion Blog](https://github.com/splitbee/react-notion-blog) - Notion blog boilerplate using React Notion to build into SSG with Next.js.
 
-## Notion as Website
+## Notion Website Hosting
 - [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
 - [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
+- [Engine.so](https://engine.so) - Turn Notion docs into a public self-serve knowledge base for your customers.
 
 ## APIs
 - [The Official Notion API - Private beta](https://www.notion.so/api-beta) - Official Notion API, which is still a private beta version.
