@@ -58,6 +58,7 @@
 - [The Official Notion API - Private beta](https://www.notion.so/api-beta) - Official Notion API, which is still a private beta version.
 - [notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so.
+- [ketion-so/go-notion](https://github.com/ketion-so/go-notion) - Unofficial Go SDK for [Notion.so API](https://developers.notion.com)
 - [notion-ruby](https://github.com/danmurphy1217/notion-ruby) - Unofficial Notion Client for Ruby.
 - [KNotion API](https://github.com/notionsdk/notion-sdk-kotlin) - Unofficial Notion.so API wrapper, written in Kotlin.
 - [Notion API Worker](https://github.com/splitbee/notion-api-worker) - A serverless wrapper for the private Notion API.
