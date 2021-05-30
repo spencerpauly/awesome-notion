@@ -73,7 +73,7 @@
 - [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) - Robust TypeScript client for the unofficial Notion API.
 - [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) - Unofficial Node.js API wrapper for Notion.so. Work in progress.
 - [notion-sdk-deno](https://github.com/yeukfei02/notion-sdk-deno) - Unofficial Notion Client for Deno.
-- [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel - Simple access to the Notion API.
+- [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel. Simple access to the Notion API.
 
 ## Contribute
 
