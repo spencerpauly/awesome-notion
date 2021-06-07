@@ -74,6 +74,7 @@
 - [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) - Unofficial Node.js API wrapper for Notion.so. Work in progress.
 - [notion-sdk-deno](https://github.com/yeukfei02/notion-sdk-deno) - Unofficial Notion Client for Deno.
 - [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel. Simple access to the Notion API.
+- [Notion Page to HTML](https://github.com/asnunes/notion-page-to-html) - NodeJS tool to convert public notion pages to HTML.
 
 ## Contribute
 
