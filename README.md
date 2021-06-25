@@ -60,6 +60,7 @@
 - [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
 - [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
 - [Engine.so](https://engine.so) - Turn Notion docs into a public self-serve knowledge base for your customers.
+- [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
 
 ## APIs
 
