@@ -4,14 +4,33 @@
 
 ## Table of Content
 
+- [Notion as Public Knowledge Base](#notion-as-public-knowledge-base)
+- [Notion as Blog CMS](#notion-as-blog-cms)
+- [Notion as Website](#notion-as-website)
 - [Tools](#tools)
 - [Websites and Communities](#websites-and-communities)
 - [Templates](#templates)
 - [Articles](#articles)
 - [Renderers](#renderers)
-- [Notion as Blog CMS](#notion-as-blog-cms)
-- [Notion as Website](#notion-as-website)
 - [APIs](#APIs)
+
+## Notion as Public Knowledge Base
+
+- [Engine.so](https://engine.so?utm_source=awesome-notion) - Turn Notion docs into a public self-serve knowledge base for your customers.
+
+## Notion as Blog CMS
+
+- [MDX.one](https://mdx.one)
+- [Notion Blog](https://github.com/ijjk/notion-blog) - It is a tool that uses Next.js to generate Notion as static blog web pages.
+- [Notablog](https://github.com/dragonman225/notablog) - Generate a minimalistic blog from Notion table.
+- [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - A starter kit using React Notion X to build into SSG with Next.js.
+- [React Notion Blog](https://github.com/splitbee/react-notion-blog) - Notion blog boilerplate using React Notion to build into SSG with Next.js.
+
+## Notion as Website
+
+- [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
+- [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
+- [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
 
 ## Tools
 
@@ -48,20 +67,6 @@
 - [React Notion X](https://github.com/NotionX/react-notion-x) - Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.
 - [Vue Notion](https://github.com/janniks/vue-notion) - A Vue renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site, ported to vue from React Notion.
 
-## Notion as Blog CMS
-
-- [Notion Blog](https://github.com/ijjk/notion-blog) - It is a tool that uses Next.js to generate Notion as static blog web pages.
-- [Notablog](https://github.com/dragonman225/notablog) - Generate a minimalistic blog from Notion table.
-- [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - A starter kit using React Notion X to build into SSG with Next.js.
-- [React Notion Blog](https://github.com/splitbee/react-notion-blog) - Notion blog boilerplate using React Notion to build into SSG with Next.js.
-
-## Notion Website Hosting
-
-- [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
-- [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
-- [Engine.so](https://engine.so) - Turn Notion docs into a public self-serve knowledge base for your customers.
-- [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
-
 ## APIs
 
 - [The Official Notion API - Private beta](https://www.notion.so/api-beta) - Official Notion API, which is still a private beta version.
@@ -77,6 +82,7 @@
 - [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel. Simple access to the Notion API.
 - [Notion Page to HTML](https://github.com/asnunes/notion-page-to-html) - NodeJS tool to convert public notion pages to HTML.
 - [notion2md](https://github.com/echo724/notion2md) - Convert your Notion file to markdown - built on-top of notion-py.
+
 ## Contribute
 
 Contributions are always welcome!
