@@ -40,6 +40,7 @@
 - [Notion Charts](https://www.notion.vip/charts/) - Create embeddable charts optimized for Notion by linking with google sheets documents.
 - [Notion Icons](https://www.notion.vip/icons/) - A list of embeddable custom icons for your Notion pages.
 - [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
+- [Notion Backups](https://notionbackups.com) - Back up your Notion workspaces to a storage provider of your choice.
 
 ## Websites and Communities
 
