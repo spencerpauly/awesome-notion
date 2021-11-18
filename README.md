@@ -57,6 +57,7 @@
 
 - [Advanced CRM](https://www.notion.so/Advanced-CRM-efbba1299cf84e1698f2e504645e8f76) - An advanced CRM in Notion that tries to mimic the structure of more advanced CRMs such as Salesforce.
 - [Help Center](https://www.notion.so/Help-Center-00597f7a5fc94ac1b923bff9614e4aa2) - A template for your company's internal FAQ and help center.
+- [Data Science Portfolios](https://deepnote.notion.site/Deepnote-s-DS-Portfolio-Notion-Templates-974be7d3075d42a3b5e27af2130c10be) - Templates to help structure & accelerate building data science portfolios.
 
 ## Articles
 
