@@ -58,10 +58,13 @@
 - [Advanced CRM](https://www.notion.so/Advanced-CRM-efbba1299cf84e1698f2e504645e8f76) - An advanced CRM in Notion that tries to mimic the structure of more advanced CRMs such as Salesforce.
 - [Help Center](https://www.notion.so/Help-Center-00597f7a5fc94ac1b923bff9614e4aa2) - A template for your company's internal FAQ and help center.
 - [Data Science Portfolios](https://deepnote.notion.site/Deepnote-s-DS-Portfolio-Notion-Templates-974be7d3075d42a3b5e27af2130c10be) - Templates to help structure & accelerate building data science portfolios.
+- [Team sync template](https://deepnote.notion.site/Deepnote-s-Team-Sync-Template-745cdfe949a94f3da17ea244cd558dab) - Build dashboards in Notion, capture metrics, discussion points and everything else you need for a productive team sync. 
 
 ## Articles
 
 - [The NBA in Notion: A Practical Example of Databases](https://www.notion.vip/the-nba-in-notion-a-practical-example-of-databases/) - An article discussing how Notion databases work using an NBA database as an example.
+- [Product-led growth CRM in Notion](https://deepnote.com/blog/product-led-growth-crm-in-notion-ckwku4568wexb0b73c9clm7r3) - A guide to building a robust CRM and driving product-led growth in Notion.
+- [Bringing analytics to Notion](https://deepnote.com/blog/bringing-analytics-to-notion-with-deepnote-ckvpqky1syeud0b71o73g4swz) - How to build charts over Notion databases and keep your analytics & storytelling all in one place.
 
 ## Renderers
 
