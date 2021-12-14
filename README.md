@@ -31,6 +31,8 @@
 - [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
 - [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
 - [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
+- [Notelet](https://notelet.so/) - Write in Notion, publish to the web. Custom domain, analytics, themes and more.
+
 
 ## Tools
 
@@ -41,10 +43,20 @@
 - [Notion Icons](https://www.notion.vip/icons/) - A list of embeddable custom icons for your Notion pages.
 - [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 - [Notion Backups](https://notionbackups.com) - Back up your Notion workspaces to a storage provider of your choice.
-
+- [SparkleForms](https://notionsparkles.com/sparkle-forms) - A bridge between your forms and your Notion tables.
+- [Notion Tweet](ttps://www.notiontweet.app/) - Twitter all-in-one tool for Notion users.
+- [Notion2Sheets](https://notion2sheets.com/) - Your Notion database synchronized with Google Sheets.
+- [Joey](https://joey.team) - 8 powerful blocks to boost engagement for Notion pages.
+- [Notion Draw](https://www.notion.so/Notion-Draw-0c786bb3ff6a45d388aff17a77e3d344) - Draw thing in Notion
+- [Integromat](https://www.integromat.com/en/integrations/notion) - Automate repetitive tasks involved in using Notion and make your work easier.
+- [notioncharts.io](https://notioncharts.io) - Beautiful charts from your Notion tables.
+- [Evergreen Notes (for Notion)](https://chrome.google.com/webstore/detail/evergreen-notes-for-notio/chhpogndpjcgjbnbcodhdnilklfanmfh) -  Sidebar extension for Notion that makes it better as a personal knowledge base.
+- [Notionlytics](https://notionlytics.com/) - Find out who visits your Notion pages.
+- [Wunderpresentation](https://wunderpresentation.com/) - Create and run interactive presentation slides in no time
+- 
 ## Websites and Communities
 
-- [NotionIntegrations](https://notionintegrations.com) - Compilation of community-made Notion Integrations and upcoming integration releases.
+- [NotionIntegrations.com](https://notionintegrations.com) - Compilation of community-made Notion Integrations and upcoming integration releases.
 - [r/Notion](https://www.reddit.com/r/Notion/) - Notion subreddit with over 76k notion users.
 - [Facebook - Notion Made Simple](https://www.facebook.com/groups/notioncommunity/) - Notion facebook group
 - [Discord - Notion Community](https://discord.com/invite/KJJ95qa) - Notion discord group to get help, discuss Notion, and share your creations.
@@ -52,6 +64,11 @@
 - [Notion Everything](https://www.notioneverything.com/) - Website for sharing and browsing Notion templates.
 - [Notion Pages](https://notionpages.com/) - Share and discover new Notion templates.
 - [Facebook - Notion for Students](https://www.facebook.com/groups/896572677502021) - A place where students can learn from one another on how to best use Notion.
+- [Notion Hacks](https://www.notion.so/notionhacks/Notion-Hacks-27b92f71afcd4ae2ac9a4d14fef0ce47) - Community to collect, discuss, and create various hacks for Notion
+- [Notion TO (slack)](https://notionto.slack.com/join/shared_invite/zt-d40b56vn-kOHiNKvv1Nl_AMODWHWp1w#/) - Notion Canada slack group
+- [Notion New York](https://www.meetup.com/NotionNewYork/) - Notion community in New York
+- [Notion Answers](https://notionanswers.com/) - Get help from other Notion users
+- [Notion UK](https://www.meetup.com/Notion-UK/) - UK Notion meetup group
 
 ## Templates
 
@@ -59,12 +76,16 @@
 - [Help Center](https://www.notion.so/Help-Center-00597f7a5fc94ac1b923bff9614e4aa2) - A template for your company's internal FAQ and help center.
 - [Data Science Portfolios](https://deepnote.notion.site/Deepnote-s-DS-Portfolio-Notion-Templates-974be7d3075d42a3b5e27af2130c10be) - Templates to help structure & accelerate building data science portfolios.
 - [Team sync template](https://deepnote.notion.site/Deepnote-s-Team-Sync-Template-745cdfe949a94f3da17ea244cd558dab) - Build dashboards in Notion, capture metrics, discussion points and everything else you need for a productive team sync. 
+- [Notion Wizard](https://www.notionwizard.com/) - Your one-stop-shop for templates, tips, tricks and productivity hacks for Notion.
+- [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 
-## Articles
+## Articles/Blogs
 
 - [The NBA in Notion: A Practical Example of Databases](https://www.notion.vip/the-nba-in-notion-a-practical-example-of-databases/) - An article discussing how Notion databases work using an NBA database as an example.
 - [Product-led growth CRM in Notion](https://deepnote.com/blog/product-led-growth-crm-in-notion-ckwku4568wexb0b73c9clm7r3) - A guide to building a robust CRM and driving product-led growth in Notion.
 - [Bringing analytics to Notion](https://deepnote.com/blog/bringing-analytics-to-notion-with-deepnote-ckvpqky1syeud0b71o73g4swz) - How to build charts over Notion databases and keep your analytics & storytelling all in one place.
+- [Red Gregory](https://www.redgregory.com/) - A Notion.so appreciation blog.
+
 
 ## Renderers
 
@@ -74,7 +95,7 @@
 
 ## APIs
 
-- [The Official Notion API - Private beta](https://www.notion.so/api-beta) - Official Notion API, which is still a private beta version.
+- [The Official Notion API - Private beta](https://developers.notion.com/) - Official Notion API, which is still a private beta version.
 - [notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so.
 - [ketion-so/go-notion](https://github.com/ketion-so/go-notion) - Unofficial Go SDK for [Notion.so API](https://developers.notion.com)
@@ -87,6 +108,7 @@
 - [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel. Simple access to the Notion API.
 - [Notion Page to HTML](https://github.com/asnunes/notion-page-to-html) - NodeJS tool to convert public notion pages to HTML.
 - [notion2md](https://github.com/echo724/notion2md) - Convert your Notion file to markdown - built on-top of notion-py.
+- 
 
 ## Contribute
 
