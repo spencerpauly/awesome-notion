@@ -10,7 +10,7 @@
 - [Tools](#tools)
 - [Websites and Communities](#websites-and-communities)
 - [Templates](#templates)
-- [Articles](#articles)
+- [Articles/Blogs](#articles/blogs)
 - [Renderers](#renderers)
 - [APIs](#APIs)
 
