@@ -32,6 +32,8 @@
 - [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
 - [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
 - [Notelet](https://notelet.so/) - Write in Notion, publish to the web. Custom domain, analytics, themes and more.
+- [Popsy](https://popsy.co/) - Create websites with Notion for free 
+- [Oopy](https://www.oopy.io/en) - Write in Notion, It's your website
 
 ## Tools
 
@@ -52,6 +54,21 @@
 - [Evergreen Notes (for Notion)](https://chrome.google.com/webstore/detail/evergreen-notes-for-notio/chhpogndpjcgjbnbcodhdnilklfanmfh) -  Sidebar extension for Notion that makes it better as a personal knowledge base.
 - [Notionlytics](https://notionlytics.com/) - Find out who visits your Notion pages.
 - [Wunderpresentation](https://wunderpresentation.com/) - Create and run interactive presentation slides in no time
+- [Whalesync](https://www.whalesync.com/) - Whalesync is the no-code data tool for builders. Automatically create a two-way sync between tools like Airtable, Webflow, and Notion.
+- [Notion.so Faster & Responsive Popup](https://chrome.google.com/webstore/detail/notionso-faster-responsiv/leadcilhbmibbkgbnjgmmnfgnnhmeddk/) - Have a better notion.so experience, less transitions and responsiveness
+- [NotionQL](https://notionql.com/) - Deploy a GraphQL API for your Notion Workspace
+- [Notion Metrics](https://notionmetrics.com/) - Your most important metrics,
+live in Notion pages
+- [Notion Quotes Widget](https://notion-quotes.vercel.app/) - Get a new quote every time you open Notion
+- [Widget Box](https://widgetbox.app/) - Customizable Widgets for your Notion Pages
+- [Float](https://www.float.so/) - Build courses entirely in Notion.
+- [Noggin](https://www.noggin.so/) - Build your course in minutes— with Notion.
+- [Notionvideo](https://notionvideos.com/) - Quickly access videos based on your interest or need here
+- [Apption](https://apption.co/) - Find & Learn Notion friendly Embeddable Widget Apps
+- [Snackthis](https://snackthis.co/) - Create Beautiful Presentations From Notion.
+- [The:gist](https://www.thegist.so/) - The easiest way to automate your Notion workflows
+- [Whimsical](https://whimsical.com/) - Collaborative docs, flowcharts, wireframes, sticky notes, and mind maps.
+- [Indify](https://indify.co/) - Level up your Notion docs with widgets. Fully customizable, and seamless to set up.
 
 ## Websites and Communities
 
@@ -84,6 +101,8 @@
 - [Product-led growth CRM in Notion](https://deepnote.com/blog/product-led-growth-crm-in-notion-ckwku4568wexb0b73c9clm7r3) - A guide to building a robust CRM and driving product-led growth in Notion.
 - [Bringing analytics to Notion](https://deepnote.com/blog/bringing-analytics-to-notion-with-deepnote-ckvpqky1syeud0b71o73g4swz) - How to build charts over Notion databases and keep your analytics & storytelling all in one place.
 - [Red Gregory](https://www.redgregory.com/) - A Notion.so appreciation blog.
+- [Notion Prism Icons](https://vyshnav.xyz/blog/notion-prism-icons) - Notion Prism Icons
+- [Notion Icons 4.0](https://vyshnav.xyz/blog/notion-icons-40) - Currently the pack contains 272 icons. All icons are available in 8 different colors.
 
 ## Renderers
 
