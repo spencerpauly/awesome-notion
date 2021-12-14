@@ -33,7 +33,6 @@
 - [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
 - [Notelet](https://notelet.so/) - Write in Notion, publish to the web. Custom domain, analytics, themes and more.
 
-
 ## Tools
 
 - [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
@@ -53,7 +52,7 @@
 - [Evergreen Notes (for Notion)](https://chrome.google.com/webstore/detail/evergreen-notes-for-notio/chhpogndpjcgjbnbcodhdnilklfanmfh) -  Sidebar extension for Notion that makes it better as a personal knowledge base.
 - [Notionlytics](https://notionlytics.com/) - Find out who visits your Notion pages.
 - [Wunderpresentation](https://wunderpresentation.com/) - Create and run interactive presentation slides in no time
-- 
+
 ## Websites and Communities
 
 - [NotionIntegrations.com](https://notionintegrations.com) - Compilation of community-made Notion Integrations and upcoming integration releases.
@@ -86,7 +85,6 @@
 - [Bringing analytics to Notion](https://deepnote.com/blog/bringing-analytics-to-notion-with-deepnote-ckvpqky1syeud0b71o73g4swz) - How to build charts over Notion databases and keep your analytics & storytelling all in one place.
 - [Red Gregory](https://www.redgregory.com/) - A Notion.so appreciation blog.
 
-
 ## Renderers
 
 - [React Notion](https://github.com/splitbee/react-notion) - A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.
@@ -108,7 +106,6 @@
 - [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel. Simple access to the Notion API.
 - [Notion Page to HTML](https://github.com/asnunes/notion-page-to-html) - NodeJS tool to convert public notion pages to HTML.
 - [notion2md](https://github.com/echo724/notion2md) - Convert your Notion file to markdown - built on-top of notion-py.
-- 
 
 ## Contribute
 
