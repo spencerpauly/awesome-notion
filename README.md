@@ -127,6 +127,7 @@ live in Notion pages
 - [notion2md](https://github.com/echo724/notion2md) - Convert your Notion file to markdown - built on-top of notion-py.
 - [notion4ever](https://github.com/MerkulovDaniil/notion4ever) - Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls.
 - [notion-dump-kernel](https://github.com/delta1037/notion-dump-kernel) - Convert your Notion page or database to markdown file - build on-top of [notion-sdk-py ](https://github.com/ramnes/notion-sdk-py).
+- [notion-dump-local](https://github.com/delta1037/notion-dump-local) - Export your Notion page to local markdown files with all link inside relocated - build on-top of [notion-dump-kernel](https://github.com/delta1037/notion-dump-kernel).
 
 ## Contribute
 
