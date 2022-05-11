@@ -20,7 +20,7 @@
 
 ## Notion as Blog CMS
 
-- [MDX.one](https://mdx.one)
+- [MDX.one](https://mdx.one) - A paid tool to create a public blog using Notion.
 - [Notion Blog](https://github.com/ijjk/notion-blog) - It is a tool that uses Next.js to generate Notion as static blog web pages.
 - [Notablog](https://github.com/dragonman225/notablog) - Generate a minimalistic blog from Notion table.
 - [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - A starter kit using React Notion X to build into SSG with Next.js.
