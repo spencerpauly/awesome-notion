@@ -28,12 +28,13 @@
 
 ## Notion as Website
 
-- [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
 - [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
 - [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
 - [Notelet](https://notelet.so/) - Write in Notion, publish to the web. Custom domain, analytics, themes and more.
 - [Popsy](https://popsy.co/) - Create websites with Notion for free 
 - [Oopy](https://www.oopy.io/en) - Write in Notion, It's your website
+- [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
+
 
 ## Tools
 
