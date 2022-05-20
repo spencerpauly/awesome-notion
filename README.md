@@ -70,6 +70,7 @@ live in Notion pages
 - [The:gist](https://www.thegist.so/) - The easiest way to automate your Notion workflows
 - [Whimsical](https://whimsical.com/) - Collaborative docs, flowcharts, wireframes, sticky notes, and mind maps.
 - [Indify](https://indify.co/) - Level up your Notion docs with widgets. Fully customizable, and seamless to set up.
+- [notionterm](https://github.com/ariary/notionterm) - Embed a shell in Notion pages.
 
 ## Websites and Communities
 
