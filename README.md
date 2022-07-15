@@ -71,6 +71,7 @@ live in Notion pages
 - [Whimsical](https://whimsical.com/) - Collaborative docs, flowcharts, wireframes, sticky notes, and mind maps.
 - [Indify](https://indify.co/) - Level up your Notion docs with widgets. Fully customizable, and seamless to set up.
 - [notionterm](https://github.com/ariary/notionterm) - Embed a shell in Notion pages.
+- [NotionSender](https://notionsender.com/) - Create emails from notion pages.
 
 ## Websites and Communities
 
