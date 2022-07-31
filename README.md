@@ -73,6 +73,7 @@ live in Notion pages
 - [notionterm](https://github.com/ariary/notionterm) - Embed a shell in Notion pages.
 - [NotionSender](https://notionsender.com/) - Create emails from notion pages.
 - [Vizion.so[(https://vizion.so/?utm_source=awesome-notion) - Create and share Notion database views.
+- [Butn.one](https://butn.one/) - Call-to-action button generator for Notion.
 
 ## Websites and Communities
 
