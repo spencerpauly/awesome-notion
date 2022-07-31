@@ -72,6 +72,7 @@ live in Notion pages
 - [Indify](https://indify.co/) - Level up your Notion docs with widgets. Fully customizable, and seamless to set up.
 - [notionterm](https://github.com/ariary/notionterm) - Embed a shell in Notion pages.
 - [NotionSender](https://notionsender.com/) - Create emails from notion pages.
+- [Vizion.so[(https://vizion.so/?utm_source=awesome-notion) - Create and share Notion database views.
 
 ## Websites and Communities
 
