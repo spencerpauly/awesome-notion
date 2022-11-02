@@ -77,6 +77,7 @@ live in Notion pages
 - [Butn.one](https://butn.one/) - Call-to-action button generator for Notion.
 - [TaskRobin](https://taskrobin.io/?utm_source=awesome-notion) - Save emails to Notion with 1-click.
 - [NotionApps](https://www.notionapps.com/?ref=awesome-notion) - Create powerful apps from Notion databases, without any coding.
+- [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) -  The CDN service of the free brand icons set for your Notion pages.
 
 ## Websites and Communities
 
