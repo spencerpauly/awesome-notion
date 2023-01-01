@@ -34,7 +34,7 @@
 - [Popsy](https://popsy.co/) - Create websites with Notion for free 
 - [Oopy](https://www.oopy.io/en) - Write in Notion, It's your website
 - [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
-
+- [Typedream](https://typedream.com/) - Build web pages, customize them, and even connect your existing Notion database without code.
 
 ## Tools
 
