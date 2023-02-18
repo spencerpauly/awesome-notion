@@ -102,6 +102,7 @@ live in Notion pages
 - [Team sync template](https://deepnote.notion.site/Deepnote-s-Team-Sync-Template-745cdfe949a94f3da17ea244cd558dab) - Build dashboards in Notion, capture metrics, discussion points and everything else you need for a productive team sync. 
 - [Notion Wizard](https://www.notionwizard.com/) - Your one-stop-shop for templates, tips, tricks and productivity hacks for Notion.
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
+- [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
 
 ## Articles/Blogs
 
