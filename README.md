@@ -80,6 +80,7 @@ live in Notion pages
 - [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) -  The CDN service of the free brand icons set for your Notion pages.
 - [NotionSocial](https://notionsocial.app/?ref=awesome-notion) - Schedule social media posts from Notion.
 - [Notion Social Preview](https://chrome.google.com/webstore/detail/notionsocial/hmekccbjjdndlipophapbddilacniidn) - Preview how your post will look like on social platforms, While planning it inside Notion.
+- [Notion PDF](https://notionpdf.app) -  Print beautiful PDF documents from your Notion Page.
 
 ## Websites and Communities
 
