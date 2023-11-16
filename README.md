@@ -47,6 +47,7 @@
 - [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 - [Notion Backups](https://notionbackups.com) - Back up your Notion workspaces to a storage provider of your choice.
 - [SparkleForms](https://notionsparkles.com/sparkle-forms) - A bridge between your forms and your Notion tables.
+- [NotionCharty](https://notioncharty.com/) - Create embeddable charts out of Notion databases.
 - [Notion Tweet](ttps://www.notiontweet.app/) - Twitter all-in-one tool for Notion users.
 - [Notion2Sheets](https://notion2sheets.com/) - Your Notion database synchronized with Google Sheets.
 - [Joey](https://joey.team) - 8 powerful blocks to boost engagement for Notion pages.
