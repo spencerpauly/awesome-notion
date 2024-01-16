@@ -53,7 +53,6 @@
 - [Joey](https://joey.team) - 8 powerful blocks to boost engagement for Notion pages.
 - [Notion Draw](https://www.notion.so/Notion-Draw-0c786bb3ff6a45d388aff17a77e3d344) - Draw thing in Notion
 - [Integromat](https://www.integromat.com/en/integrations/notion) - Automate repetitive tasks involved in using Notion and make your work easier.
-- [notioncharts.io](https://notioncharts.io) - Beautiful charts from your Notion tables.
 - [Evergreen Notes (for Notion)](https://chrome.google.com/webstore/detail/evergreen-notes-for-notio/chhpogndpjcgjbnbcodhdnilklfanmfh) -  Sidebar extension for Notion that makes it better as a personal knowledge base.
 - [Notionlytics](https://notionlytics.com/) - Find out who visits your Notion pages.
 - [Wunderpresentation](https://wunderpresentation.com/) - Create and run interactive presentation slides in no time
