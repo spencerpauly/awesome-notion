@@ -73,7 +73,6 @@ live in Notion pages
 - [Indify](https://indify.co/) - Level up your Notion docs with widgets. Fully customizable, and seamless to set up.
 - [notionterm](https://github.com/ariary/notionterm) - Embed a shell in Notion pages.
 - [NotionSender](https://notionsender.com/) - Create emails from notion pages.
-- [Vizion.so](https://vizion.so/?utm_source=awesome-notion) - Create and share Notion database views.
 - [Butn.one](https://butn.one/) - Call-to-action button generator for Notion.
 - [TaskRobin](https://taskrobin.io/?utm_source=awesome-notion) - Save emails to Notion with 1-click.
 - [NotionApps](https://www.notionapps.com/?ref=awesome-notion) - Create powerful apps from Notion databases, without any coding.
