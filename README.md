@@ -30,6 +30,7 @@
 
 - [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
 - [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
+- [NoteHost](https://github.com/velsa/notehost) - Free Hosting for your Notion Pages on your custom domain.
 - [Notelet](https://notelet.so/) - Write in Notion, publish to the web. Custom domain, analytics, themes and more.
 - [Popsy](https://popsy.co/) - Create websites with Notion for free 
 - [Oopy](https://www.oopy.io/en) - Write in Notion, It's your website
