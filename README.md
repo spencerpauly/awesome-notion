@@ -4,15 +4,18 @@
 
 ## Table of Content
 
-- [Notion as Public Knowledge Base](#notion-as-public-knowledge-base)
-- [Notion as Blog CMS](#notion-as-blog-cms)
-- [Notion as Website](#notion-as-website)
-- [Tools](#tools)
-- [Websites and Communities](#websites-and-communities)
-- [Templates](#templates)
-- [Articles/Blogs](#articles/blogs)
-- [Renderers](#renderers)
-- [APIs](#APIs)
+- [awesome-notion ](#awesome-notion-)
+  - [Table of Content](#table-of-content)
+  - [Notion as Public Knowledge Base](#notion-as-public-knowledge-base)
+  - [Notion as Blog CMS](#notion-as-blog-cms)
+  - [Notion as Website](#notion-as-website)
+  - [Tools](#tools)
+  - [Websites and Communities](#websites-and-communities)
+  - [Templates](#templates)
+  - [Articles/Blogs](#articlesblogs)
+  - [Renderers](#renderers)
+  - [APIs](#apis)
+  - [Contribute](#contribute)
 
 ## Notion as Public Knowledge Base
 
@@ -42,6 +45,7 @@
 - [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
 - [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk?hl=en) - Chrome extension that lets you bookmark any website into Notion.
 - [Notion Boost](https://chrome.google.com/webstore/detail/notion-boost/eciepnnimnjaojlkcpdpcgbfkpcagahd?hl=en) - Chrome extension in the vein of Notion Enhancer.
+- [Notion Mate](https://chromewebstore.google.com/detail/notion-mate/pplckfedebdimphneohkmhlmhompgpmn) - Notion Mate productivity with 30+ customizations like outline (TOC), small text, full width, image viewer, scroll to top etc.
 - [Notion Charts](https://www.notion.vip/charts/) - Create embeddable charts optimized for Notion by linking with google sheets documents.
 - [Notion Icons](https://www.notion.vip/icons/) - A list of embeddable custom icons for your Notion pages.
 - [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
