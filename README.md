@@ -128,6 +128,7 @@ live in Notion pages
 ## APIs
 
 - [The Official Notion API - Private beta](https://developers.notion.com/) - Official Notion API, which is still a private beta version.
+- [notion-ts-client](https://github.com/velsa/notion-ts-client) - Generate an easy to use custom Typescript SDK to access and modify the data in your Notion Databases.
 - [notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so.
 - [ketion-so/go-notion](https://github.com/ketion-so/go-notion) - Unofficial Go SDK for [Notion.so API](https://developers.notion.com)
