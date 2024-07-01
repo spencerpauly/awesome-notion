@@ -83,6 +83,7 @@ live in Notion pages
 - [NotionSocial](https://notionsocial.app/?ref=awesome-notion) - Schedule social media posts from Notion.
 - [Notion Social Preview](https://chrome.google.com/webstore/detail/notionsocial/hmekccbjjdndlipophapbddilacniidn) - Preview how your post will look like on social platforms, While planning it inside Notion.
 - [Notion PDF](https://notionpdf.app) -  Print beautiful PDF documents from your Notion Page.
+- [Notion Habit Tracker](https://www.notion-habit-tracker.com) - Habit Tracker for Notion
 
 ## Websites and Communities
 
