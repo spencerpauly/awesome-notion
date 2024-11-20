@@ -20,22 +20,22 @@
 
 ## Notion as Blog CMS
 
-- [MDX.one](https://mdx.one) - A paid tool to create a public blog using Notion.
-- [Notion Blog](https://github.com/ijjk/notion-blog) - It is a tool that uses Next.js to generate Notion as static blog web pages.
-- [Notablog](https://github.com/dragonman225/notablog) - Generate a minimalistic blog from Notion table.
+- [Feather](https://feather.so) - A paid tool to create a public blog & newsletter using Notion.
 - [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - A starter kit using React Notion X to build into SSG with Next.js.
+- [Notablog](https://github.com/dragonman225/notablog) - Generate a minimalistic blog from Notion table.
+- [Notion Blog](https://github.com/ijjk/notion-blog) - It is a tool that uses Next.js to generate Notion as static blog web pages.
 - [React Notion Blog](https://github.com/splitbee/react-notion-blog) - Notion blog boilerplate using React Notion to build into SSG with Next.js.
 
 ## Notion as Website
 
 - [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
 - [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
-- [NoteHost](https://github.com/velsa/notehost) - Free Hosting for your Notion Pages on your custom domain.
 - [Notelet](https://notelet.so/) - Write in Notion, publish to the web. Custom domain, analytics, themes and more.
 - [Popsy](https://popsy.co/) - Create websites with Notion for free 
 - [Oopy](https://www.oopy.io/en) - Write in Notion, It's your website
-- [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
 - [Typedream](https://typedream.com/) - Build web pages, customize them, and even connect your existing Notion database without code.
+- [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
+- [NoteHost](https://github.com/velsa/notehost) - Free Hosting for your Notion Pages on your custom domain.
 
 ## Tools
 
@@ -49,11 +49,10 @@
 - [Notion Backups](https://notionbackups.com) - Back up your Notion workspaces to a storage provider of your choice.
 - [SparkleForms](https://notionsparkles.com/sparkle-forms) - A bridge between your forms and your Notion tables.
 - [NotionCharty](https://notioncharty.com/) - Create embeddable charts out of Notion databases.
-- [Notion Tweet](ttps://www.notiontweet.app/) - Twitter all-in-one tool for Notion users.
+- [Queue](https://www.queue.so/) - Twitter Scheduling Tool for Notion
 - [Notion2Sheets](https://notion2sheets.com/) - Your Notion database synchronized with Google Sheets.
 - [Joey](https://joey.team) - 8 powerful blocks to boost engagement for Notion pages.
-- [Notion Draw](https://www.notion.so/Notion-Draw-0c786bb3ff6a45d388aff17a77e3d344) - Draw thing in Notion
-- [Integromat](https://www.integromat.com/en/integrations/notion) - Automate repetitive tasks involved in using Notion and make your work easier.
+- [Make](https://www.make.com/en/integrations/notion) - Automate repetitive tasks involved in using Notion and make your work easier.
 - [Evergreen Notes (for Notion)](https://chrome.google.com/webstore/detail/evergreen-notes-for-notio/chhpogndpjcgjbnbcodhdnilklfanmfh) -  Sidebar extension for Notion that makes it better as a personal knowledge base.
 - [Notionlytics](https://notionlytics.com/) - Find out who visits your Notion pages.
 - [Wunderpresentation](https://wunderpresentation.com/) - Create and run interactive presentation slides in no time
@@ -84,13 +83,15 @@ live in Notion pages
 - [Notion Social Preview](https://chrome.google.com/webstore/detail/notionsocial/hmekccbjjdndlipophapbddilacniidn) - Preview how your post will look like on social platforms, While planning it inside Notion.
 - [Notion PDF](https://notionpdf.app) -  Print beautiful PDF documents from your Notion Page.
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
+- [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
+- [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
 
 ## Websites and Communities
 
 - [NotionIntegrations.com](https://notionintegrations.com) - Compilation of community-made Notion Integrations and upcoming integration releases.
 - [r/Notion](https://www.reddit.com/r/Notion/) - Notion subreddit with over 76k notion users.
 - [Facebook - Notion Made Simple](https://www.facebook.com/groups/notioncommunity/) - Notion facebook group
-- [Discord - Notion Community](https://discord.com/invite/KJJ95qa) - Notion discord group to get help, discuss Notion, and share your creations.
+- [Discord - Notion Community](https://discord.gg/xtXyPGcM) - Notion discord group to get help, discuss Notion, and share your creations.
 - [Slack - Notion Hacks](https://www.notion.so/Notion-Hacks-27b92f71afcd4ae2ac9a4d14fef0ce47) - Slack community to discuss, collect and creat various hacks for Notion.
 - [Notion Everything](https://www.notioneverything.com/) - Website for sharing and browsing Notion templates.
 - [Notion Pages](https://notionpages.com/) - Share and discover new Notion templates.
@@ -103,7 +104,6 @@ live in Notion pages
 
 ## Templates
 
-- [Advanced CRM](https://www.notion.so/Advanced-CRM-efbba1299cf84e1698f2e504645e8f76) - An advanced CRM in Notion that tries to mimic the structure of more advanced CRMs such as Salesforce.
 - [Help Center](https://www.notion.so/Help-Center-00597f7a5fc94ac1b923bff9614e4aa2) - A template for your company's internal FAQ and help center.
 - [Data Science Portfolios](https://deepnote.notion.site/Deepnote-s-DS-Portfolio-Notion-Templates-974be7d3075d42a3b5e27af2130c10be) - Templates to help structure & accelerate building data science portfolios.
 - [Team sync template](https://deepnote.notion.site/Deepnote-s-Team-Sync-Template-745cdfe949a94f3da17ea244cd558dab) - Build dashboards in Notion, capture metrics, discussion points and everything else you need for a productive team sync. 
@@ -113,7 +113,7 @@ live in Notion pages
 
 ## Articles/Blogs
 
-- [The NBA in Notion: A Practical Example of Databases](https://www.notion.vip/the-nba-in-notion-a-practical-example-of-databases/) - An article discussing how Notion databases work using an NBA database as an example.
+- [The NBA in Notion: A Practical Example of Databases](https://www.notion.vip/insights/the-nba-in-notion-a-practical-example-of-databases) - An article discussing how Notion databases work using an NBA database as an example.
 - [Product-led growth CRM in Notion](https://deepnote.com/blog/product-led-growth-crm-in-notion-ckwku4568wexb0b73c9clm7r3) - A guide to building a robust CRM and driving product-led growth in Notion.
 - [Bringing analytics to Notion](https://deepnote.com/blog/bringing-analytics-to-notion-with-deepnote-ckvpqky1syeud0b71o73g4swz) - How to build charts over Notion databases and keep your analytics & storytelling all in one place.
 - [Red Gregory](https://www.redgregory.com/) - A Notion.so appreciation blog.
@@ -122,17 +122,15 @@ live in Notion pages
 
 ## Renderers
 
-- [React Notion](https://github.com/splitbee/react-notion) - A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.
 - [React Notion X](https://github.com/NotionX/react-notion-x) - Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.
-- [Vue Notion](https://github.com/janniks/vue-notion) - A Vue renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site, ported to vue from React Notion.
+- [Vue Notion](https://github.com/janniks/vue-notion) - A Vue renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site, ported to vue from React Notion. - [React Notion](https://github.com/splitbee/react-notion) - A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.
 
 ## APIs
 
-- [The Official Notion API - Private beta](https://developers.notion.com/) - Official Notion API, which is still a private beta version.
+- [The Official Notion API](https://developers.notion.com/) - Official Notion API, which is still a private beta version.
 - [notion-ts-client](https://github.com/velsa/notion-ts-client) - Generate an easy to use custom Typescript SDK to access and modify the data in your Notion Databases.
 - [notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so.
-- [ketion-so/go-notion](https://github.com/ketion-so/go-notion) - Unofficial Go SDK for [Notion.so API](https://developers.notion.com)
 - [notion-ruby](https://github.com/danmurphy1217/notion-ruby) - Unofficial Notion Client for Ruby.
 - [KNotion API](https://github.com/notionsdk/notion-sdk-kotlin) - Unofficial Notion.so API wrapper, written in Kotlin.
 - [Notion API Worker](https://github.com/splitbee/notion-api-worker) - A serverless wrapper for the private Notion API.
@@ -145,6 +143,8 @@ live in Notion pages
 - [notion4ever](https://github.com/MerkulovDaniil/notion4ever) - Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls.
 - [notion-sdk-php](https://github.com/brd6/notion-sdk-php/) - PHP library for the official Notion API.
 - [notion-exporter](https://github.com/yannbolliger/notion-exporter) - CLI and library for exporting .md and .csv files from any Notion.so page.
+- [notion-helper](https://github.com/TomFrankly/notion-helper) - Library for writing Notion API requests with a lot less code
+
 
 ## Contribute
 
