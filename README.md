@@ -39,6 +39,7 @@
 
 ## Tools
 
+- [Notis.ai](https://notis.ai) - Voice-powered copilot for Notion that captures, organizes, and finds anything in your Notion workspace - right from your favorite messaging app (WhatsApp, Telegram).
 - [Latwy](https://latwy.co) - Automatically sync your financial transactions and balances in Notion. 
 - [Heading Image Generator](https://engine.so/heading-image-generator-for-notion/) - Instantly create header graphics that you can easily copy/paste into Notion
 - [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
