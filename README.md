@@ -125,7 +125,8 @@ live in Notion pages
 ## Renderers
 
 - [React Notion X](https://github.com/NotionX/react-notion-x) - Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.
-- [Vue Notion](https://github.com/janniks/vue-notion) - A Vue renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site, ported to vue from React Notion. - [React Notion](https://github.com/splitbee/react-notion) - A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.
+- [Vue Notion](https://github.com/janniks/vue-notion) - A Vue renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site, ported to vue from React Notion.
+- [React Notion](https://github.com/splitbee/react-notion) - A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.
 
 ## APIs
 
