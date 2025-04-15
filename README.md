@@ -2,6 +2,8 @@
 
 > A curated list of awesome Notion related things.
 
+EN | [ZH-CN](README.zh-CN.md)
+
 ## Table of Content
 
 - [Notion as Public Knowledge Base](#notion-as-public-knowledge-base)
@@ -31,7 +33,7 @@
 - [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
 - [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
 - [Notelet](https://notelet.so/) - Write in Notion, publish to the web. Custom domain, analytics, themes and more.
-- [Popsy](https://popsy.co/) - Create websites with Notion for free 
+- [Popsy](https://popsy.co/) - Create websites with Notion for free
 - [Oopy](https://www.oopy.io/en) - Write in Notion, It's your website
 - [Typedream](https://typedream.com/) - Build web pages, customize them, and even connect your existing Notion database without code.
 - [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
@@ -40,7 +42,7 @@
 ## Tools
 
 - [Notis.ai](https://notis.ai) - Voice-powered copilot for Notion that captures, organizes, and finds anything in your Notion workspace - right from your favorite messaging app (WhatsApp, Telegram).
-- [Latwy](https://latwy.co) - Automatically sync your financial transactions and balances in Notion. 
+- [Latwy](https://latwy.co) - Automatically sync your financial transactions and balances in Notion.
 - [Heading Image Generator](https://engine.so/heading-image-generator-for-notion/) - Instantly create header graphics that you can easily copy/paste into Notion
 - [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
 - [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk?hl=en) - Chrome extension that lets you bookmark any website into Notion.
@@ -59,10 +61,10 @@
 - [Notionlytics](https://notionlytics.com/) - Find out who visits your Notion pages.
 - [Wunderpresentation](https://wunderpresentation.com/) - Create and run interactive presentation slides in no time
 - [Whalesync](https://www.whalesync.com/) - Whalesync is the no-code data tool for builders. Automatically create a two-way sync between tools like Airtable, Webflow, and Notion.
-- [Notion.so Faster & Responsive Popup](https://chrome.google.com/webstore/detail/notionso-faster-responsiv/leadcilhbmibbkgbnjgmmnfgnnhmeddk/) - Have a better notion.so experience, less transitions and responsiveness
+- [Notion.so Faster &amp; Responsive Popup](https://chrome.google.com/webstore/detail/notionso-faster-responsiv/leadcilhbmibbkgbnjgmmnfgnnhmeddk/) - Have a better notion.so experience, less transitions and responsiveness
 - [NotionQL](https://notionql.com/) - Deploy a GraphQL API for your Notion Workspace
 - [Notion Metrics](https://notionmetrics.com/) - Your most important metrics,
-live in Notion pages
+  live in Notion pages
 - [Notion Quotes Widget](https://notion-quotes.vercel.app/) - Get a new quote every time you open Notion
 - [Widget Box](https://widgetbox.app/) - Customizable Widgets for your Notion Pages
 - [Float](https://www.float.so/) - Build courses entirely in Notion.
@@ -108,7 +110,7 @@ live in Notion pages
 
 - [Help Center](https://www.notion.so/Help-Center-00597f7a5fc94ac1b923bff9614e4aa2) - A template for your company's internal FAQ and help center.
 - [Data Science Portfolios](https://deepnote.notion.site/Deepnote-s-DS-Portfolio-Notion-Templates-974be7d3075d42a3b5e27af2130c10be) - Templates to help structure & accelerate building data science portfolios.
-- [Team sync template](https://deepnote.notion.site/Deepnote-s-Team-Sync-Template-745cdfe949a94f3da17ea244cd558dab) - Build dashboards in Notion, capture metrics, discussion points and everything else you need for a productive team sync. 
+- [Team sync template](https://deepnote.notion.site/Deepnote-s-Team-Sync-Template-745cdfe949a94f3da17ea244cd558dab) - Build dashboards in Notion, capture metrics, discussion points and everything else you need for a productive team sync.
 - [Notion Wizard](https://www.notionwizard.com/) - Your one-stop-shop for templates, tips, tricks and productivity hacks for Notion.
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 - [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
@@ -148,7 +150,6 @@ live in Notion pages
 - [notion-exporter](https://github.com/yannbolliger/notion-exporter) - CLI and library for exporting .md and .csv files from any Notion.so page.
 - [notion-helper](https://github.com/TomFrankly/notion-helper) - Library for writing Notion API requests with a lot less code
 - [lotion](https://www.npmjs.com/package/@stickyculture/lotion) - NodeJS tool for importing, exporting, and transforming Notion database content.
-
 
 ## Contribute
 
