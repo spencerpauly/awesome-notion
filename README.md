@@ -39,6 +39,7 @@
 
 ## Tools
 
+- [Mk Notes](https://github.com/Myastr0/mk-notes) - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
 - [Notis.ai](https://notis.ai) - Voice-powered copilot for Notion that captures, organizes, and finds anything in your Notion workspace - right from your favorite messaging app (WhatsApp, Telegram).
 - [Latwy](https://latwy.co) - Automatically sync your financial transactions and balances in Notion. 
 - [Heading Image Generator](https://engine.so/heading-image-generator-for-notion/) - Instantly create header graphics that you can easily copy/paste into Notion
