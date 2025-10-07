@@ -132,8 +132,11 @@ live in Notion pages
 ## APIs
 
 - [The Official Notion API](https://developers.notion.com/) - Official Notion API, which is still a private beta version.
+- [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Reference implementation of the Notion API in Javascript by the Notion Team.
 - [notion-ts-client](https://github.com/velsa/notion-ts-client) - Generate an easy to use custom Typescript SDK to access and modify the data in your Notion Databases.
 - [notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
+- [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) - Python version of the reference notion-sdk-js Javascript client.
+- [ultimate-notion](https://ultimate-notion.com/) - High-level Python client based on notion-sdk-py.
 - [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so.
 - [notion-ruby](https://github.com/danmurphy1217/notion-ruby) - Unofficial Notion Client for Ruby.
 - [KNotion API](https://github.com/notionsdk/notion-sdk-kotlin) - Unofficial Notion.so API wrapper, written in Kotlin.
@@ -149,7 +152,6 @@ live in Notion pages
 - [notion-exporter](https://github.com/yannbolliger/notion-exporter) - CLI and library for exporting .md and .csv files from any Notion.so page.
 - [notion-helper](https://github.com/TomFrankly/notion-helper) - Library for writing Notion API requests with a lot less code
 - [lotion](https://www.npmjs.com/package/@stickyculture/lotion) - NodeJS tool for importing, exporting, and transforming Notion database content.
-
 
 ## Contribute
 
