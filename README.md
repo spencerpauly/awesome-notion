@@ -88,6 +88,7 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [Vedika API](https://vedika.io) - Vedic astrology API with webhook support for automating horoscope, panchang, and kundali data into Notion databases.
 
 ## Websites and Communities
 
