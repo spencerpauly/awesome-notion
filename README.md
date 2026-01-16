@@ -41,7 +41,8 @@
 
 - [Mk Notes](https://github.com/Myastr0/mk-notes) - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
 - [Notis.ai](https://notis.ai) - Voice-powered copilot for Notion that captures, organizes, and finds anything in your Notion workspace - right from your favorite messaging app (WhatsApp, Telegram).
-- [Latwy](https://latwy.co) - Automatically sync your financial transactions and balances in Notion. 
+- [Latwy](https://latwy.co) - Automatically sync your financial transactions and balances in Notion.
+- [Leetion - LeetCode to Notion](https://chromewebstore.google.com/detail/leetion-leetcode-to-notio/jecnakakffleikibkbkdchdipmgeahpm) - Save LeetCode solutions to Notion with one click for spaced repetition review. 
 - [Heading Image Generator](https://engine.so/heading-image-generator-for-notion/) - Instantly create header graphics that you can easily copy/paste into Notion
 - [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
 - [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk?hl=en) - Chrome extension that lets you bookmark any website into Notion.
