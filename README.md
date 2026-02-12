@@ -88,6 +88,7 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [Taskade](https://taskade.com) - AI-powered workspace and Notion alternative with custom AI agents, real-time collaboration, 8 project views (List, Board, Calendar, Table, Mind Map, Gantt, Org Chart, Timeline), and workflow automation.
 
 ## Websites and Communities
 
