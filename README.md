@@ -113,6 +113,7 @@ live in Notion pages
 - [Notion Wizard](https://www.notionwizard.com/) - Your one-stop-shop for templates, tips, tricks and productivity hacks for Notion.
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 - [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
+- [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit) - Notion templates for solo founders: SaaS launch checklist, revenue tracker, content calendar, feedback system, pricing worksheet.
 
 ## Articles/Blogs
 
