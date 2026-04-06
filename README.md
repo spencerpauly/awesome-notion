@@ -2,6 +2,7 @@
 
 > A curated list of awesome Notion related things.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Notion workflow orchestration, automated knowledge base management, and multi-agent coordination. MIT licensed.
 ## Table of Content
 
 - [Notion as Public Knowledge Base](#notion-as-public-knowledge-base)
