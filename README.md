@@ -88,6 +88,7 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## Websites and Communities
 
