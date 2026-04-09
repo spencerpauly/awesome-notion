@@ -66,6 +66,7 @@
 live in Notion pages
 - [Notion Quotes Widget](https://notion-quotes.vercel.app/) - Get a new quote every time you open Notion
 - [Widget Box](https://widgetbox.app/) - Customizable Widgets for your Notion Pages
+- [Notion Widgets Framework](https://github.com/rushhiii/notion-widgets) - Static, embeddable Notion widgets with URL-based customization.
 - [Float](https://www.float.so/) - Build courses entirely in Notion.
 - [Noggin](https://www.noggin.so/) - Build your course in minutes— with Notion.
 - [Notionvideo](https://notionvideos.com/) - Quickly access videos based on your interest or need here
