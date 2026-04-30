@@ -75,6 +75,7 @@ live in Notion pages
 - [Whimsical](https://whimsical.com/) - Collaborative docs, flowcharts, wireframes, sticky notes, and mind maps.
 - [Indify](https://indify.co/) - Level up your Notion docs with widgets. Fully customizable, and seamless to set up.
 - [notionterm](https://github.com/ariary/notionterm) - Embed a shell in Notion pages.
+- [Notion URL to ID](https://github.com/samdsgn-studio/raycast-notion-id-extractor) - Raycast extension that extracts Notion page and database IDs from URLs or the clipboard.
 - [NotionSender](https://notionsender.com/) - Create emails from notion pages.
 - [Butn.one](https://butn.one/) - Call-to-action button generator for Notion.
 - [TaskRobin](https://taskrobin.io/?utm_source=awesome-notion) - Save emails to Notion with 1-click.
