@@ -58,6 +58,7 @@
 - [Make](https://www.make.com/en/integrations/notion) - Automate repetitive tasks involved in using Notion and make your work easier.
 - [Evergreen Notes (for Notion)](https://chrome.google.com/webstore/detail/evergreen-notes-for-notio/chhpogndpjcgjbnbcodhdnilklfanmfh) -  Sidebar extension for Notion that makes it better as a personal knowledge base.
 - [Notionlytics](https://notionlytics.com/) - Find out who visits your Notion pages.
+- [PageInsight](https://pageinsight.satosushi.co/) - Real-time, page-level analytics for Notion pages with time-on-page heartbeats and live reader count.
 - [Wunderpresentation](https://wunderpresentation.com/) - Create and run interactive presentation slides in no time
 - [Whalesync](https://www.whalesync.com/) - Whalesync is the no-code data tool for builders. Automatically create a two-way sync between tools like Airtable, Webflow, and Notion.
 - [Notion.so Faster & Responsive Popup](https://chrome.google.com/webstore/detail/notionso-faster-responsiv/leadcilhbmibbkgbnjgmmnfgnnhmeddk/) - Have a better notion.so experience, less transitions and responsiveness
