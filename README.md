@@ -114,6 +114,7 @@ live in Notion pages
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 - [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit) - Notion templates for solo founders: SaaS launch checklist, revenue tracker, content calendar, feedback system, pricing worksheet.
+- [NotionCraftTemplates](https://site-psi-lime-22.vercel.app/) - Niche-specific Notion templates for ADHD adults, freelancers, therapists, solo realtors, students, and content creators, with side-by-side comparisons against common SaaS alternatives.
 
 ## Articles/Blogs
 
