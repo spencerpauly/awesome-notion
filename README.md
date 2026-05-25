@@ -138,6 +138,7 @@ live in Notion pages
 - [notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) - Python version of the reference notion-sdk-js Javascript client.
 - [ultimate-notion](https://ultimate-notion.com/) - High-level Python client based on notion-sdk-py.
+- [notion2pandas](https://gitlab.com/Jaeger87/notion2pandas) - Python library to load Notion databases into pandas DataFrames and sync changes back to Notion.
 - [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so.
 - [notion-ruby](https://github.com/danmurphy1217/notion-ruby) - Unofficial Notion Client for Ruby.
 - [KNotion API](https://github.com/notionsdk/notion-sdk-kotlin) - Unofficial Notion.so API wrapper, written in Kotlin.
