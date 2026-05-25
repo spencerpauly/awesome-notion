@@ -88,6 +88,7 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [agency-os](https://github.com/AutomateLab-tech/agency-os) - Open-source Claude Code plugin and MCP server that turns a Notion board into the dashboard of a small AI agency, with tasks, subtasks, status flow, and agent delegation.
 
 ## Websites and Communities
 
