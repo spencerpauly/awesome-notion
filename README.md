@@ -144,6 +144,7 @@ live in Notion pages
 - [Notion API Worker](https://github.com/splitbee/notion-api-worker) - A serverless wrapper for the private Notion API.
 - [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) - Robust TypeScript client for the unofficial Notion API.
 - [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) - Unofficial Node.js API wrapper for Notion.so. Work in progress.
+- [Notion Private API MCP](https://github.com/kirvigen/notion-private-api-mcp) - Unofficial MCP server built on the private Notion API (token_v2). Gives AI agents (Claude, Cursor, etc.) full read/write access to your entire workspace with no integration token.
 - [notion-sdk-deno](https://github.com/yeukfei02/notion-sdk-deno) - Unofficial Notion Client for Deno.
 - [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel. Simple access to the Notion API.
 - [Notion Page to HTML](https://github.com/asnunes/notion-page-to-html) - NodeJS tool to convert public notion pages to HTML.
