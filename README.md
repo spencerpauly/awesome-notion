@@ -88,6 +88,7 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [Sync2Sheets](https://sync2sheets.com/?ref=awesome-notion) - Real-time two-way sync between Notion databases and Google Sheets, with per-column sync direction.
 
 ## Websites and Communities
 
