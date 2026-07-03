@@ -114,6 +114,7 @@ live in Notion pages
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 - [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit) - Notion templates for solo founders: SaaS launch checklist, revenue tracker, content calendar, feedback system, pricing worksheet.
+- [AI-Augmented Notion Workspace](https://www.notion.com/templates/ai-augmented-workspace) - Workspace for day-to-day work with AI: a 51-prompt library, SOPs, and a session-memory workflow that carries context between ChatGPT/Claude chats.
 
 ## Articles/Blogs
 
