@@ -114,6 +114,8 @@ live in Notion pages
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 - [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit) - Notion templates for solo founders: SaaS launch checklist, revenue tracker, content calendar, feedback system, pricing worksheet.
+- [ADHD Daily Planner](https://curvy-bladder-5d8.notion.site/ADHD-Daily-Planner-Free-Template-3934f8faa68b80139503ead01723da9c) - Free ADHD-friendly daily planner built backwards: no streak-based habit tracking, no guilt for missed days. Morning check-in, brain dump, evening check-in, weekly review.
+- [Clinic Patient Coordinator CRM](https://curvy-bladder-5d8.notion.site/Clinic-Patient-Coordinator-CRM-Free-Template-3934f8faa68b80349576e71cf2e66817) - Free template for small clinic patient coordination: sample patient rows, insurance tracker, referral tracker, daily checklist, PHI-handling warning built in.
 
 ## Articles/Blogs
 
