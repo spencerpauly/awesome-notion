@@ -114,6 +114,8 @@ live in Notion pages
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 - [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit) - Notion templates for solo founders: SaaS launch checklist, revenue tracker, content calendar, feedback system, pricing worksheet.
+- [Notion Life OS](https://gumroad.com/l/rqydgy) - Complete life management system with 15 linked databases (tasks, habits, goals, finances, health, CRM, journal, and more).
+- [Notion Semester Organizer](https://gumroad.com/l/vaikgi) - Complete Notion productivity system for students with 7 linked databases. Free.
 
 ## Articles/Blogs
 
