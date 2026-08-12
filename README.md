@@ -104,6 +104,7 @@ live in Notion pages
 - [Notion New York](https://www.meetup.com/NotionNewYork/) - Notion community in New York
 - [Notion Answers](https://notionanswers.com/) - Get help from other Notion users
 - [Notion UK](https://www.meetup.com/Notion-UK/) - UK Notion meetup group
+- [HKeys - Notion shortcuts](https://hkeys.app/apps/notion) - Reference for Notion keyboard shortcuts on macOS and Windows, with a printable cheat sheet and a drill for practicing them.
 
 ## Templates
 
