@@ -88,6 +88,7 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [TopicSplit](https://github.com/andrwspt/topicsplit) — Free offline semantic text grouper. Split pasted text into topic segments by meaning (lexical cohesion), not word count. Perfect for breaking down articles into atomic notes for Notion, Obsidian, Logseq, or any PKM workflow. 100% browser-based, MIT licensed.
 
 ## Websites and Communities
 
