@@ -114,6 +114,7 @@ live in Notion pages
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 - [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit) - Notion templates for solo founders: SaaS launch checklist, revenue tracker, content calendar, feedback system, pricing worksheet.
+- [AI Search Visibility Tracker](https://cookie-hardboard-76a.notion.site/AI-Search-Visibility-Tracker-3bdd69f89cbe81568bb1ee202344a51c) - Free Notion template for manually logging weekly AI search citation checks, cited competitors, and follow-up fixes.
 
 ## Articles/Blogs
 
