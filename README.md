@@ -114,6 +114,7 @@ live in Notion pages
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 - [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit) - Notion templates for solo founders: SaaS launch checklist, revenue tracker, content calendar, feedback system, pricing worksheet.
+- [Virtual Assistant Client and Task OS](https://turiya.sell.app/product/virtual-assistant-client-and-task-os) - A comprehensive client and task management command center for virtual assistants.
 
 ## Articles/Blogs
 
