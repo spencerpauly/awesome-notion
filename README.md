@@ -38,7 +38,7 @@
 - [NoteHost](https://github.com/velsa/notehost) - Free Hosting for your Notion Pages on your custom domain.
 
 ## Tools
-
+- [Brink](https://brinknotch.site) - Free, open-source macOS notch for your Notion pages and tasks: peek, tick, capture and edit without opening Notion.
 - [Mk Notes](https://github.com/Myastr0/mk-notes) - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
 - [Notis.ai](https://notis.ai) - Voice-powered copilot for Notion that captures, organizes, and finds anything in your Notion workspace - right from your favorite messaging app (WhatsApp, Telegram).
 - [Latwy](https://latwy.co) - Automatically sync your financial transactions and balances in Notion. 
