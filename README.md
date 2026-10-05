@@ -48,6 +48,7 @@
 - [Notion Boost](https://chrome.google.com/webstore/detail/notion-boost/eciepnnimnjaojlkcpdpcgbfkpcagahd?hl=en) - Chrome extension in the vein of Notion Enhancer.
 - [Notion Charts](https://www.notion.vip/charts/) - Create embeddable charts optimized for Notion by linking with google sheets documents.
 - [Notion Icons](https://www.notion.vip/icons/) - A list of embeddable custom icons for your Notion pages.
+- [notionctl](https://github.com/radityajay/notionctl) - Declarative Notion database management. Define databases in YAML, sync to Notion with one command — like Terraform for Notion.
 - [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 - [Notion Backups](https://notionbackups.com) - Back up your Notion workspaces to a storage provider of your choice.
 - [SparkleForms](https://notionsparkles.com/sparkle-forms) - A bridge between your forms and your Notion tables.
