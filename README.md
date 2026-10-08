@@ -114,6 +114,7 @@ live in Notion pages
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 - [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit) - Notion templates for solo founders: SaaS launch checklist, revenue tracker, content calendar, feedback system, pricing worksheet.
+- [Job Application Tracker (Lite)](https://different-epoxy-5a6.notion.site/Job-Application-Tracker-Free-Lite-3f3ba46009bd8114882dc9dbfaa91212) - Free Notion template: track applications by status, next action and date, with board and calendar views.
 
 ## Articles/Blogs
 
