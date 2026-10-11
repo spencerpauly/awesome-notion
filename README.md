@@ -36,6 +36,7 @@
 - [Typedream](https://typedream.com/) - Build web pages, customize them, and even connect your existing Notion database without code.
 - [Notion Dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
 - [NoteHost](https://github.com/velsa/notehost) - Free Hosting for your Notion Pages on your custom domain.
+- [Newmade](https://newmade.page/) - A Notion-powered website builder with AI-assisted design, content sync, and custom domains.
 
 ## Tools
 
