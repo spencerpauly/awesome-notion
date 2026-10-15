@@ -88,6 +88,7 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [Readdit Later](https://readditlater.com) - Chrome extension that exports your saved Reddit posts and comments to a Notion database, once or on a schedule (Lifetime and Basic plans).
 
 ## Websites and Communities
 
