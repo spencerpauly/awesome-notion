@@ -123,6 +123,7 @@ live in Notion pages
 - [Red Gregory](https://www.redgregory.com/) - A Notion.so appreciation blog.
 - [Notion Prism Icons](https://vyshnav.xyz/blog/notion-prism-icons) - Notion Prism Icons
 - [Notion Icons 4.0](https://vyshnav.xyz/blog/notion-icons-40) - Currently the pack contains 272 icons. All icons are available in 8 different colors.
+- [Super vs Notion Sites](https://pickthetool.com/super-vs-notion-sites/) - Compare Notion Sites and Super for design, updates and maintenance.
 
 ## Renderers
 
