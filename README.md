@@ -39,6 +39,7 @@
 
 ## Tools
 
+- [Smaran](https://github.com/imnakul/Smaran---Remember-what-matters) - Offline-first Android app for reminders, learnings, gratitude, quotes, and habits with optional two-way sync to your own Notion databases.
 - [Mk Notes](https://github.com/Myastr0/mk-notes) - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
 - [Notis.ai](https://notis.ai) - Voice-powered copilot for Notion that captures, organizes, and finds anything in your Notion workspace - right from your favorite messaging app (WhatsApp, Telegram).
 - [Latwy](https://latwy.co) - Automatically sync your financial transactions and balances in Notion. 
