@@ -88,6 +88,8 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [ChartOmodo](https://chartomodo.com/?utm_source=awesome-notion&utm_medium=directory&utm_campaign=directories-2026q4) - Turn Notion databases into auto-refreshing charts and dashboards you can embed back in Notion.
+
 
 ## Websites and Communities
 
