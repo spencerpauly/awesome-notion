@@ -88,6 +88,7 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [Advanced Word of the Day widget](https://lexfall.app/notion-widget) - Free embeddable word of the day for Notion with exam, medical, legal and business vocabulary, four styles and light/dark themes.
 
 ## Websites and Communities
 
