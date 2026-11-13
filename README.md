@@ -123,6 +123,7 @@ live in Notion pages
 - [Red Gregory](https://www.redgregory.com/) - A Notion.so appreciation blog.
 - [Notion Prism Icons](https://vyshnav.xyz/blog/notion-prism-icons) - Notion Prism Icons
 - [Notion Icons 4.0](https://vyshnav.xyz/blog/notion-icons-40) - Currently the pack contains 272 icons. All icons are available in 8 different colors.
+- [My sync daemon wiped 28 tasks in two seconds](https://waldo.vanderlore.de/blog/notion-obsidian-sync-war-story/) - A Notion and Obsidian two-way sync post-mortem: what broke and the four fixes that stop it happening again.
 
 ## Renderers
 
