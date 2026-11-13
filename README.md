@@ -88,6 +88,7 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [3DMindNet](https://3dmindnet.com) - Visualize a Notion database as an interactive 3D graph, with two-way sync and an embeddable live graph you can put back into a Notion page.
 
 ## Websites and Communities
 
