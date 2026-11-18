@@ -114,6 +114,7 @@ live in Notion pages
 - [Notionery](https://notionery.com/) - Discover the very best Notion templates, products, and more.
 - [Notion Things](https://notionthings.com/) - Productivity blog about using Notion in everyday life with template repository.
 - [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit) - Notion templates for solo founders: SaaS launch checklist, revenue tracker, content calendar, feedback system, pricing worksheet.
+- [Oppi Freelancer CRM Kit](https://github.com/Reggiebro/oppi-digital-products) - Notion CRM & pipeline kit for freelancers: leads and clients database, pipeline and follow-up views, proposal and onboarding prompt pack; free sample templates to try before buying.
 
 ## Articles/Blogs
 
