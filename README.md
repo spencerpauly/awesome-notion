@@ -39,6 +39,7 @@
 
 ## Tools
 
+- [Wix-to-Notion Setup Studio](https://dylan-workflows.impactlayer.workers.dev/setup-studio/studio/) - Create and download field-mapping JSON for a Wix-to-Notion reference connector. Free browser editor; deploying the separate connector requires provider accounts and setup.
 - [Mk Notes](https://github.com/Myastr0/mk-notes) - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
 - [Notis.ai](https://notis.ai) - Voice-powered copilot for Notion that captures, organizes, and finds anything in your Notion workspace - right from your favorite messaging app (WhatsApp, Telegram).
 - [Latwy](https://latwy.co) - Automatically sync your financial transactions and balances in Notion. 
