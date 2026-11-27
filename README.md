@@ -88,6 +88,7 @@ live in Notion pages
 - [Files to Notion](https://www.files2notion.com/) -  Organise and open your files directly from Notion
 - [Habit Genius](https://www.habit-genius.com/) - A Habit Tracker Widget for Notion
 - [Free widgets for Notion](https://www.laurieherault.com/free-notion-widget) Free widgets for Notion
+- [Mom Test Question Checker embed](https://nar-vardanyan.github.io/frank-mcp/tools/mom-test-checker/?utm_source=awesome-notion&utm_medium=directory&utm_campaign=mom-test-checker) - Free customer interview question checker you add to a Notion page with /embed, one of six no-tracking interview tools by Frank AI Researcher.
 
 ## Websites and Communities
 
